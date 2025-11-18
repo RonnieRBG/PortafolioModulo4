@@ -1,6 +1,10 @@
 
 # Proyecto: Gestor de Tareas en Consola - Java
 
+## Pendientes
+    El proyecto se encuetra casi completo en su totalidad, solo habia que arreglar la fecha. 
+    Actualemente se ingresa como STRING.
+
 ## Descripción general
 
 Esta aplicación de consola permite gestionar tareas diarias, agregándolas, listándolas, filtrándolas por estado (completadas o pendientes) y marcándolas como completadas. Está desarrollada en Java siguiendo principios de programación orientada a objetos.
